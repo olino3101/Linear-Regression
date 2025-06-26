@@ -10,7 +10,7 @@ from arrayInit import Load_xy
 from calculs import CalcTheta, StandardizeArr
 
 def WriteThetaIntoFile(theta0, theta1):
-    file_name = '../theta.txt'
+    file_name = 'data/theta.txt'
     try:
         with open(file_name, 'w') as file:
             file.write(f"theta0: {theta0}\n")
