@@ -1,6 +1,7 @@
 # Linear Regression – Car Price Estimator
 
-This project implements a simple linear regression model to estimate car prices based on mileage. The code is written in Python with minimal dependencies.
+This project implements a simple linear regression model to estimate car prices based on mileage.
+There is 3 programs to launch. The code is written in Python with minimal dependencies.
 
 
 ---
@@ -51,13 +52,6 @@ Install NumPy:
 
 pip install numpy
 
-(Optional) For plotting, install Matplotlib:
-
 pip install matplotlib
 
-Author
 
-BOSS
-
-
-Let me know if you want it even more concise or with a different style!
