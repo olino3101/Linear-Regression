@@ -2,21 +2,6 @@
 
 This project implements a simple linear regression model to estimate car prices based on mileage. The code is written in Python with minimal dependencies.
 
----
-
-## Project Structure
-
-/
-├── Acurracy.py # Calculates model precision (MSE)
-├── EstimatePrice.py # Predicts car price from mileage
-├── TrainModel.py # Trains the linear regression model
-├── data/
-│ ├── data.csv # Dataset with mileage and prices
-│ └── theta.txt # Saved model parameters
-├── src/
-│ ├── [helper modules] # Supporting functions
-└── README.md
-
 
 ---
 
